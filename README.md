@@ -1,6 +1,8 @@
 # Luadyn 🚀
 
-**Luadyn** is a lightweight project that enables the use of Lua 5.4 interpreter on Windows platform without dependency on the `lua54.dll` library. Luadyn achieves this by dynamically linking Lua functions at runtime for binary modules, providing greater flexibility and portability for Lua-based projects.
+**Luadyn** is a lightweight project that enables the use of Lua 5.4 interpreter on Windows platform without dependency on the `lua54.dll` library.
+
+Luadyn achieves this by dynamically linking Lua functions at runtime for binary modules, providing greater flexibility and portability for Lua-based projects.
 Whether you're embedding Lua in an application or distributing Lua modules, Luadyn simplifies the process by removing the need for the external `lua54.dll` library, while still being able to use binary modules, making your deployments cleaner and more self-contained.
 
 ---
